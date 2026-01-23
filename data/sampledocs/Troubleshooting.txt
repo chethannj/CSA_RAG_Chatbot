@@ -1,0 +1,11 @@
+Troubleshooting Guide
+
+If the product is not powering on:
+1. Charge for at least 30 minutes.
+2. Hold the power button for 10 seconds.
+3. Try a different cable.
+
+If Wi-Fi is not connecting:
+1. Restart router.
+2. Forget network and reconnect.
+3. Update firmware.
