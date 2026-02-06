@@ -4,9 +4,12 @@ langchain
 langchain-community
 langchain-groq
 chromadb
-python-dotenv
-streamlit
 pypdf
 python-docx
+unstructured==0.18.31
+tiktoken
+python-multipart
+sentence-transformers
+python-dotenv
+streamlit
 markdown
-
