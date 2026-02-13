@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+chromadb
+pypdf
+python-docx
+unstructured==0.18.31
+tiktoken
+python-multipart
+sentence-transformers
+python-dotenv
+streamlit
+markdown
