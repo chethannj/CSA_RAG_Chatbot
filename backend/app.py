@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from .rag_pipeline import build_chain
-from .ingest import ingest
+from rag_pipeline import build_chain
+from ingest import ingest
 
 app = FastAPI(title="Customer Support Agent RAG Chatbot")
 

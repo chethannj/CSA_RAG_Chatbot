@@ -5,7 +5,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-from backend.config import PERSIST_DIR, GROQ_API_KEY
+from config import PERSIST_DIR, GROQ_API_KEY
 
 RAG_PROMPT = ChatPromptTemplate.from_template("""
 You are a helpful customer support assistant.
