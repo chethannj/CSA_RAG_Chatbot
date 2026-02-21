@@ -21,7 +21,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
 # importing project paths from config.py
-from .config import DATA_DIR, PERSIST_DIR
+from config import DATA_DIR, PERSIST_DIR
 
 
 # ✅ A map that decides which loader to use for each file extension
